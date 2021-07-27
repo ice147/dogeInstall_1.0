@@ -1,0 +1,16 @@
+telethon
+async_generator
+colorama
+bs4
+requests
+asyncio
+faker
+pyaes
+beautifulsoup4
+certifi
+chardet==3.0.4
+idna==2.10
+pyasn1==0.4.8
+pyfiglet==0.8.post1
+soupsieve==2.0.1
+urllib3==1.25.10
